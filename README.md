@@ -1,2 +1,2 @@
 # Sand-Plotter
-This is my first gub-hub project folder. Anyhow, -here is the Sand-Plotter project folder with all the mechanical, ECAD & Arduino Code. 
+This is my stab at building a Sand Plotter. Thank you to Jeff & co over the years. Sorry its taken me this long to upload my files. Ive included the mechanical Solidworks files, KiCAD ECAD files & Arduino code. I found it easier to design my own arduino shield with stepper drivers & arduino code. This machine has been working 8 hours a day, 7days a week probably for the last 4-5 months so I think its pretty reliable.
