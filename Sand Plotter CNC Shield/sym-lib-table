@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sb-cnc-shield-rescue")(type "KiCad")(uri "${KIPRJMOD}/sb-cnc-shield-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "Tims CNC Shield-rescue")(type "KiCad")(uri "${KIPRJMOD}/Tims CNC Shield-rescue.kicad_sym")(options "")(descr ""))
+)
